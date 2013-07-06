@@ -10,6 +10,8 @@ gemspec
 
 gem 'rails', '~> 3.2.6'
 
+gem 'activeadmin', github: 'gregbell/active_admin'
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
